@@ -1,7 +1,7 @@
 python-dsa/
 │
-├── README.md              # Explain project + usage
-├── requirements.txt       # (if using extra libs like collections, not always needed)
+├── README.md             
+├── requirements.txt       
 │
 ├── arrays/
 │   ├── reverse_array.py
