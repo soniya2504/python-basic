@@ -1,4 +1,4 @@
-python-dsa/
+python-dsa
 │
 ├── README.md             
 ├── requirements.txt       
